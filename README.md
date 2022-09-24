@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [e-health](https://github.com/Ad019El/e-health)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Express, MongoDB, Tailwind, flutter**
+- 🌱 I’m currently learning **ReactJS, NextJS, NodeJS, Express, MongoDB, Tailwind, flutter**
 
 - 💬 Ask me about **ReactJS, flutter, Design**
 

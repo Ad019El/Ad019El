@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad019el&label=Profile%20views&color=0e75b6&style=flat" alt="ad019el" /> </p>
 
-- 🔭 I’m currently working on [TrustAll](http://trustall.net/) as a Front-end Developer
+- 🔭 My last project is [TrustAll](http://trustall.net/) I've worked as a Front-end Developer
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Angular, NodeJS, Express, MongoDB, Tailwind, flutter**
 

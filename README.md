@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad019el&label=Profile%20views&color=0e75b6&style=flat" alt="ad019el" /> </p>
 
-- 🔭 I’m currently working on [TrustAll](https://github.com/Ad019El/TrustAll/)
+- 🔭 I’m currently working on [TrustAll](http://trustall.net/) as a Front-end Developer
 
 - 🌱 I’m currently learning **ReactJS, NextJS, NodeJS, Express, MongoDB, Tailwind, flutter**
-
-- 💬 Ask me about **ReactJS, flutter, Design**
 
 - 📫 How to reach me **a.dafi@esi-sba.dz**
 

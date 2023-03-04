@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TrustAll](http://trustall.net/) as a Front-end Developer
 
-- 🌱 I’m currently learning **ReactJS, NextJS, NodeJS, Express, MongoDB, Tailwind, flutter**
+- 🌱 I’m currently learning **ReactJS, NextJS, Angular, NodeJS, Express, MongoDB, Tailwind, flutter**
 
 - 📫 How to reach me **a.dafi@esi-sba.dz**
 

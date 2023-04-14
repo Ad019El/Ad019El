@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DAFI Adel</h1>
-<h3 align="center">A passionate software engineer from Algeria</h3>
+<h3 align="center">A software engineer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad019el&label=Profile%20views&color=0e75b6&style=flat" alt="ad019el" /> </p>
 

@@ -5,8 +5,6 @@
 
 - 🔭 My last project is [TrustAll](http://trustall.net/) I've worked as a Front-end Developer
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Angular, NodeJS, Express, MongoDB, Tailwind, flutter**
-
 - 📫 How to reach me **adeldafi2@gmail.com**
 
 - ⚡ Fun fact **Don't believe everything you think**

@@ -3,7 +3,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ad019el&label=Profile%20views&color=567dd7&style=flat" alt="ad019el" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://adel-dafi.vercel.app/](http://adel-dafi.vercel.app/)
+- 👨‍💻 Checkout my portfolio [http://adel-dafi.vercel.app/](http://adel-dafi.vercel.app/)
 
 - 💬 Ask me about **React, Nextjs, Web-dev in general**
 
